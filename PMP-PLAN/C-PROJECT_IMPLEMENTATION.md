@@ -30,13 +30,13 @@ WPOD-Net architecture:
 
 ### Milestone Chart
 #### Microsoft Project:
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_1.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_2.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_3.png" width="100%">
+<img src="assets/milestonechart/Project_FacialAttendance_page-0001.jpg" width="100%">
+<img src="assets/milestonechart/Project_FacialAttendance_page-0002.jpg" width="100%">
+<img src="assets/milestonechart/Project_FacialAttendance_page-0003.jpg" width="100%">
+<img src="assets/milestonechart/Project_FacialAttendance_page-0004.jpg" width="100%">
+<img src="assets/milestonechart/Project_FacialAttendance_page-0005.jpg" width="100%">
+<img src="assets/milestonechart/Project_FacialAttendance_page-0006.jpg" width="100%">
 
-#### Power Point:
-The flags indicate the milestones of our car plate recognition project
-<img src="assets/implementation/Time Management Gantt Chart.png" width="100%">
 
 <br><br><br>
 ##### Next: [Project Execution](D-PROJECT_EXECUTION.md)
