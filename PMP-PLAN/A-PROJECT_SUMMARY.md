@@ -4,7 +4,7 @@
 ###  Project Summary
 This project aims to automate the traditional attendance system where the attendance is marked manually. It also enables the organization to maintain its records like in-time, out time, break time and attendance digitally. Digitalization of the system would also help in better visualization of the data using graphs to display the no. of employees present today, total work hours of each employee and their break time. Its added features serve as an efficient upgrade and replacement over the traditional attendance system.
 
-###  Customer: Creative IT Solutions Avenue Sdn. Bhd.
+###  Customer: Softinn Solutions Sdn. Bhd.
 
 ### Project Name: Attendance Management System Using Face Recognition
 
