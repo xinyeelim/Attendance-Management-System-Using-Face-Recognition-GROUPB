@@ -8,7 +8,8 @@
 <img src="assets/closing/acceptance_form.png" width="100%">
 
 #### 2. Lessons Learned Document
-<img src="assets/closing/lessons_learned.svg" width="100%">
+<img src="assets/closing/lesson_report-1.png" width="100%">
+<img src="assets/closing/lesson_report-2.png" width="100%">
 
 
 #### 3. Final Project Report
