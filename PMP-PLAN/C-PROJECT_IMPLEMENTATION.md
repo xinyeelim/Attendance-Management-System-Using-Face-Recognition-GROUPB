@@ -21,12 +21,12 @@ WPOD-Net architecture:
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
-|   Construction supervision   |$30000                         | Supervision on the project | 
+|   Server Maintenance         |$1800                         |  Monthly Cloud Server      |      
+|   Construction supervision   |$15000                         | Supervision on the project | 
 |   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
-|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
+|   Equipment and equipment use|$5000                           | Equipment preparation and setup                                                       |                              |
 |   Project signs              |$400                           |  Installation of project signs     |                            |
-|   TOTAL                      |$127200                        |  Estimated     |                              |
+|   TOTAL                      |$94200                        |  Estimated     |                              |
 
 ### Milestone Chart
 Figures below shows the milestones for the development phase of the project, the subtasks are the modules needed to complete the development of the project.
