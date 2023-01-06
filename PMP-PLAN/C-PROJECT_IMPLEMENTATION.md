@@ -32,8 +32,7 @@ WPOD-Net architecture:
 Figures below shows the milestones for the development phase of the project, the subtasks are the modules needed to complete the development of the project.
 #### Microsoft Project:
 <img src="assets/milestonechart/Project_FacialAttendance_page-0001.jpg" width="100%">
-<img src="assets/milestonechart/Project_FacialAttendance_page-0002.jpg" width="100%">>
-
+<img src="assets/milestonechart/Project_FacialAttendance_page-0002.jpg" width="100%">
 
 
 <br><br><br>
