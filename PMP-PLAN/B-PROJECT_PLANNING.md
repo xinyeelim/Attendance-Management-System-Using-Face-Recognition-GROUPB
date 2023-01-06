@@ -11,14 +11,29 @@ Project management WBS is shown in the Gantt Chart below:
 <img src="assets/planning/WBS1.png" width="100%">
 <img src="assets/planning/WBS2.png" width="100%">
 
-As for the Car Plate Recognition Project, the system WBS are represented as follow. This WBS is constructured to breakdown the technical part of the project into several modules such as interface design, API management, Car Plate Detection and Car Plate Recognition: 
+As for the Attendance Management Project, the system WBS are represented as follow. This WBS is constructured to breakdown the technical part of the project into several modules such as interface design, API management, Facial Detection and Facial Recognition: 
 
 <img src="assets/planning/WBS-Prj.png" width="100%">
 
 ### Scope
 A work breakdown structure (WBS) is created to map all the necessary tasks and develop the process which the WBS will be maintained and approved.
 
-In this car plate recognition project, we need to identify the scope of the project. For instance, the project will not accept car plate number that are unique as it does not follow the government rules. For example, the car plate number is reflecting to lights and car plate number with special fonts will not be acceptable. Besides, this project scope down the limit of the project by only detect alphabet and number character. Therefore, country such as Japan and Thailand might not be able to use this system.
+The system mainly works around 2 types of users
+
+1. Employee
+2. Admin
+
+Following functionalities can be performed by the admin:
+- Login
+- Register new employees to the system
+- Add employee photos to the training data set
+- Train the model
+- View attendance report of all employees. Attendance can be filtered by date or employee.
+
+Following functionalities can be performed by the employee:
+- Login
+- Mark his/her time-in and time-out by scanning their face
+- View attendance report of self
 
 ### Risk Identification Chart (Quality, Cost, Time)
 
