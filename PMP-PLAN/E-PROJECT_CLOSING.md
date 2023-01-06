@@ -65,7 +65,7 @@ iv) Report information to senior management on monthly basis
 
 #### 4. Close Contract
 
-<img src="assets/closing/close_contract.PNG" width="100%">
+<img src="assets/closing/close_contract.png" width="100%">
 
 
 <br><br><br>
