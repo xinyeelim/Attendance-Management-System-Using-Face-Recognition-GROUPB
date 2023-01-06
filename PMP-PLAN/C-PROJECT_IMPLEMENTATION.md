@@ -29,13 +29,11 @@ WPOD-Net architecture:
 |   TOTAL                      |$127200                        |  Estimated     |                              |
 
 ### Milestone Chart
+Figures below shows the milestones for the development phase of the project, the subtasks are the modules needed to complete the development of the project.
 #### Microsoft Project:
 <img src="assets/milestonechart/Project_FacialAttendance_page-0001.jpg" width="100%">
-<img src="assets/milestonechart/Project_FacialAttendance_page-0002.jpg" width="100%">
-<img src="assets/milestonechart/Project_FacialAttendance_page-0003.jpg" width="100%">
-<img src="assets/milestonechart/Project_FacialAttendance_page-0004.jpg" width="100%">
-<img src="assets/milestonechart/Project_FacialAttendance_page-0005.jpg" width="100%">
-<img src="assets/milestonechart/Project_FacialAttendance_page-0006.jpg" width="100%">
+<img src="assets/milestonechart/Project_FacialAttendance_page-0002.jpg" width="100%">>
+
 
 
 <br><br><br>
