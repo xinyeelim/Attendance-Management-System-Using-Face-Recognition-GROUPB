@@ -1,10 +1,12 @@
 # PROJECT OVERVIEW
 ## D. EXECUTING THE PROJECT
 ### Project Design and Coding
-Flowchart Design:
-<img src="assets/flowchart.JPG" width="60%">
+Entity Relationship Diagram:
+<br><img src="assets/execution/er_diagram.jpg" width="60%">
 
- Car Plate Implementation Example
+Flowchart:
+<br>
+** insert here
 
 ### Description of the project coding and implementation
 Libraries and Packages required:
@@ -40,11 +42,15 @@ The image undergoes image processing by converting to grayscale, blur image, ima
 <img src="assets/8.JPG" width="100%">
 
 ### Project Result
-Result using Tkinter:
-<img src="assets/tkinter.JPG" width="100%">
+Employee and Admin Interface:
+<img src="assets/execution/UI1.jpg" width="100%">
+<img src="assets/execution/UI2.png" width="100%">
+<img src="assets/execution/UI3.png" width="100%">
+<img src="assets/execution/ui4.png" width="100%">
 
-Result using Web API:
-<img src="assets/9.jpeg" width="100%">
+Facial Recognition Module
+<img src="assets/execution/AI1.png" width="100%">
+<img src="assets/execution/AI2.png" width="100%">
 
 
 <br><br><br>
