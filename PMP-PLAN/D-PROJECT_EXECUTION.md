@@ -13,8 +13,8 @@ Libraries and Packages required:
 
 
 Car Plate Detection: 
-Firstly, we load our model from the pre-trained which created by sergiomsilva.From our Github repository, two files: wpod-net.h5 and wpod-net.json canbe found. Notifications "loading model successfully..." should be get after this step. 
-<img src="assets/requi.JPG" width="40%">
+Firstly, we load our model from the module in Django, which is used to define the database schema for our application.In Django, a model is a Python class that represents a database table. Each attribute of the class represents a field of the table, and each instance of the class represents a row in the table.
+<img src="assets/model.JPG" width="40%">
 
 Subsequently, we create a function name preprocess_image to read and pre-process our plate images. This function basically reads the parsing image, converts it to RGB (line 3) and normalizes the image data to 0–1 range so it can be compatible with matplotlib. Additionally, we can set resize = True to resize all images to same dimension of (width = 224, height = 224) for visualizing purpose in the next step.
 <img src="assets/1.JPG" width="100%">
