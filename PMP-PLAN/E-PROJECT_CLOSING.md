@@ -17,7 +17,7 @@
 
 **1.0 PROJECT OBJECTIVES**
 
-The car plate recognition system done by QTMT Inc. was intended to develop an artificial intelligence system that are able to detect Malaysia car number plate. Besides, one of the aims of QTMT Inc. is to develop a system that are able to recognize the character of the car number plate. Not only that, we also intend to build an application programming interface (API) for the future ease if use as the integration module.
+The attendance management using face recognition system done by College AI Inc. was intended to automate the traditional attendance system. Besides, one of the aims of College AI Inc. is to develop a system that are able to recognize a user by their facial features. Not only that, we also intend to develop an application programming interface (API) for the future ease of use as the integration module.
 
 **2.0 SUMMARY OF PROJECT RESULTS**
 
@@ -40,26 +40,25 @@ The actual budget matches the original budget, which means that the team has fol
 
 **5.1 SCOPE**
 
-The project scope was initiated from the beginning of the project. For instance, the system is not able to detect unique number plates that does not follow the rules set by the government. Unique number plates that cannot be recognise includes number plates that are reflective, and also number plate with special fonts. The system also scopes down the limit of the project by only detect alphabet and number character. Therefore, this system may not be used by countries like China or Thailand, which includes Thai and Mandarin in their number plates.
+In modern society, facial recognition is becoming more popular. In the area of security, it has achieved significant advancements. It is a very useful tool that can assist law enforcement in identifying criminals, and software providers are utilizing the technology to make it easier for people to access the technology. This technology can be improved and utilized in several contexts, such as ATMs, secure file access and other sensitive information. Future projects based on facial detection and recognition can be built on the foundation of this project. Moreover, this project combines user-friendly UI with web development and database management. By using this system, any business, institution, or organization can replace the outdated method of monitoring staff attendance and produce a monthly report on their presence.
 
 **5.2 OBJECTIVES**
 
-QTMT Inc. managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses deep-learning technique has been made. Deep learning is used in this project to identify the location of the number plate on the image and also read the characters on the number plate. 
-Besides, FAST API is used to implement the python program that are used to recognise the number plate into a html website. By using this method, our objective of building an API in the system was met.
+College Ai Inc. managed to achieve the objectives initialized since the beginning of the project. A system that is artificial intelligence powered, which uses deep-learning technique has been made. Deep learning is able to produce astonishing results for face recognition which can get a good approximation of a complex function through the addition of hidden layers. It is a feature of machine language that instructs computers to perform tasks the way people naturally do them. As a result, deep learning is the method used in this system. Besides, FAST API is used to implement the python program that are used to perform "facial search" on images stored on the server in a Relational Database to get the top-k matches for all the faces in an input image. By using this method, our objective of building an API in the system was met.
 
 **5.3 IMPACTS**
 
-By creating this system, the time needed of queueing up in front of the barrier gateway before entering the mall’s car park has been reduced. This can avoid traffic obstruction caused by the long queue. The process of paying the parking fees will also become more convenient as shoppers will no longer need to queue up in front of the auto pay machine and wait for their turn to pay for the parking fees. The parking fees will be automatically conducted from the account registered by the users after their number plate has been recognize. 
+By creating this system, it can save time for both employees and admin. Face Recognition means no paperwork needed, which ultimately saves time and money and providing accurate data instantly. Besides, this system will help simplify payroll by keeping attendance data into the system, making it easy to get information and calculate attendance-based salaries at any time resulting in a simplified payroll process. Furthermore, Face recognition attendance system will eliminate fraud such as buddy punching.
 
 **6.0 TRANSITION PLAN**
 
-QTMT Inc. staff will provide support when require. The main work of support provided by QTMT Inc.’s staff on the car plate recognition system project are as shown below:
+College AI Inc. staff will provide support when require. The main work of support provided by College AI Inc.’s staff on the attendance management using face recognition system project are as shown below:
 
 i) Maintain the system
 
 ii) Handling errors and updates of the system
 
-iii) Provide user guidelines for Aeon staff to use the system
+iii) Provide user guidelines for Softinn Solutions Sdn. Bhd. staff to use the system
 
 iv) Report information to senior management on monthly basis
 
