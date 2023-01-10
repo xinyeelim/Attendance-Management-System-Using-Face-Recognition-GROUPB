@@ -6,7 +6,7 @@ Hardware Requirement:
 For the hardware, our group uses the laptop which consists of intel core i5 and 8GB RAM to conduct our project.
 
 #### Software Requirement:
-For the software, our group used python programming language to implement the code for intelligent module in recognizing car plate and PHP programming language to design the website and database connection. 
+For the software, our group used python programming language to implement the code for intelligent module in recognizing face and PHP programming language to design the website and database connection. 
 
 #### Intelligent System Architecture:
 The proposed neural network is WPOD-Net, which is a type of convolution neural network.
@@ -14,7 +14,7 @@ WPOD-Net architecture:
 <img src="assets/implementation/architecture.png" width="100%">
 
 #### Outcomes of the system
-2 main steps will be applied in our system, which is license plate detection and character recognition. Given an input image, the first steps are to detect the license plate using Warped Planar Object Detection Network (WPOOD-Net) and regresses one affine transformation per detection, allowing a rectification of the license plate area to a rectangle resembling a frontal view. These positive and rectified detections are fed to an OCR network for final character recognition. 
+4 main steps will be applied in our system, which is face detection,facial landmark detection, extraction of facial embeddings and classification of unknown embedding. This system mainly works for 2 types of users which is for admin and employee. As for the admin page, it has several modules which are login module, register new employees to the system module, add employee photos to the training data set, train the model and view attendance report of all employees. The attendance can be filtered by date or employee. Next is the functionalities that can be performed by the employee. As for employee page, there is login module, marking his/her time-in and time-out by scanning their face and viewing attendance report of their own.
 <img src="assets/implementation/exampleResult.png" width="100%">
 
 ### Tasks and Estimated Costs
