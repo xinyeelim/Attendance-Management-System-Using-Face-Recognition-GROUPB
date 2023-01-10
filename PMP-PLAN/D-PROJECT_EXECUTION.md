@@ -13,33 +13,31 @@ Libraries and Packages required:
 
 
 Car Plate Detection: 
-Firstly, we load our model from the module in Django, which is used to define the database schema for our application.In Django, a model is a Python class that represents a database table. Each attribute of the class represents a field of the table, and each instance of the class represents a row in the table.
-<br><img src="assets/execution/model.jpg" width="40%">
+This new implementation has an additional function username_present(username), which checks if a user with the provided username exists in the database or not by using User.objects.filter(username=username).exists(). User.objects.filter(username=username) will return all the user object which has the given username, and .exists() method checks if any object is returned or not. This function is useful as it checks if the user with the given username is present in the database before creating a directory. It eliminates the case where a user may be trying to create a directory for a non-existing user. The create_dataset function is still creating a directory with given username if it does not exists. Now it can be used in the way like :
+<br><img src="assets/execution/coding 1.jpg" width="40%">
 
-Subsequently, we create a function name preprocess_image to read and pre-process our plate images. This function basically reads the parsing image, converts it to RGB (line 3) and normalizes the image data to 0–1 range so it can be compatible with matplotlib. Additionally, we can set resize = True to resize all images to same dimension of (width = 224, height = 224) for visualizing purpose in the next step.
-<img src="assets/1.JPG" width="100%">
+This code appears to be setting up a facial detection and alignment system using the dlib library. The following operations are done in this code:
 
-In this step, we visualize our vehicle dataset. This dataset contains of 20 vehicle images with plate acquired from 10 different countries (Germany, Vietnam, Japan, Thailand, Saudi, Russia, Korea, Usa, India, China). The following block of code will display plate images and their country names in a figure containing of 5 columns and 4 rows.
-<img src="assets/2.JPG" width="100%">
+1. "Loading the facial detector" - The dlib.get_frontal_face_detector() function is called to load a pre-trained model for detecting faces in an image.
 
-Now, function named get_plate which processes the raw image is written, and is sent to our model and return the plate image (LpImg) and its coordinates (cor). If there is no plate founded, the program would warn with an error “No License plate is founded!”. 
-<img src="assets/3.JPG" width="100%">
+2. The dlib.shape_predictor() function is used to load a pre-trained model for predicting the 68 facial landmarks. The shape_predictor_68_face_landmarks.dat file is passed as an argument, which contains the trained model data.
 
-We draw a bounding box with obtained coordinates of deteced plate. 
-<img src="assets/4.JPG" width="100%">
+3. FaceAligner class is initialised with given predictor and desired face width.
 
-We perform get_plate function to all vehicle images and plot the returend plate images. 
-<img src="assets/5.JPG" width="100%">
+4. "Initializing Video stream" - The VideoStream class is imported and initialized to start capturing images from the webcam using the start() method. The src parameter is set to 0, which is the default camera index and refers to the built-in webcam.
 
-Plate Character Segmentation with OpenCV:
-The image undergoes image processing by converting to grayscale, blur image, image thresholding and dilation. 
-<img src="assets/6.JPG" width="100%">
+The facial detector is used to detect faces in the images captured from the webcam, and the facial landmarks predictor is used to align the faces in the images. The FaceAligner class aligns the face using facial landmarks.
+<br><img src="assets/execution/coding 2.jpg" width="100%">
 
- findContours function of OpenCV is used to identify the coordinates of license character. This function is based on a simple theory: contours is simply curve joining all continuous point (along the boundary) sharing the same color and intensity. We created a function called sort_contours which basically sorts founded contours from left to right. We add another contour filter. Later, we draw bounding with all contours that passes these filters, applies binary thresholding on each determined contours and append them to list crop_characters.
-<img src="assets/7.JPG" width="100%">
+In this step, the function takes two inputs, embedded and targets, which are used to create the visualization. The TSNE class from the sklearn.manifold library is used to transform the data in embedded into a 2-dimensional space. Then, the function enumerates through the unique elements of the targets input, and uses this to index the transformed data X_embedded. A scatter plot is created, with the points in the scatter plot corresponding to the elements of X_embedded indexed by targets == t. Each class from the targets is assigned a different color and a label. Lastly, the visualization created is saved as an image using plt.savefig('./recognition/static/recognition/img/training_visualisation.png'), and close the figure to free up resources. Also autolayout is set to True to ensure that the figure is tight and the labels are visible.
+<br><img src="assets/execution/coding 3.jpg">
 
- Ater having all segmented characters storing in crop_characters. We visualize the with matplotlib using the example code as below. We train Neural Network model which is able to recognize and convert those characters to digital letters.
-<img src="assets/8.JPG" width="100%">
+The function takes an input, present, which is a dictionary that maps user names to Boolean values indicating whether the user is present or not. The function then starts by getting the current date and time using datetime.date.today() and datetime.datetime.now() respectively. Then, it iterates through the present dictionary, getting the user object corresponding to the username using User.objects.get(username=person). Then it tries to get the Present model object, which contains the attendance record of a user and by calling Present.objects.get(user=user,date=today). If the object does not exist, it creates a new Present object and sets the user and date fields to the user and today's date, respectively and set the present field according to the dictionary, then it save this object. If the object already exists, it updates the present field of that object, then it saves the updated object. Lastly, it also saves a new Time object, and set the user, date, time and out fields, if the user is present that day.
+<br><img src="assets/execution/coding 4.jpg">
+
+This function is similar to the previous one and is used to update the attendance records of users when they are logging out. 
+<br><img src="assets/execution/coding 5.jpg">
+
 
 ### Project Result
 Employee and Admin Interface:
