@@ -15,7 +15,7 @@ Libraries and Packages required:
 
 Car Plate Detection: 
 This new implementation has an additional function username_present(username), which checks if a user with the provided username exists in the database or not by using User.objects.filter(username=username).exists(). User.objects.filter(username=username) will return all the user object which has the given username, and .exists() method checks if any object is returned or not. This function is useful as it checks if the user with the given username is present in the database before creating a directory. It eliminates the case where a user may be trying to create a directory for a non-existing user. The create_dataset function is still creating a directory with given username if it does not exists. Now it can be used in the way like :
-<br><img src="assets/execution/coding 1.jpg" width="40%">
+<br><img src="assets/execution/coding 1.jpg" width="100%">
 
 This code appears to be setting up a facial detection and alignment system using the dlib library. The following operations are done in this code:
 
