@@ -13,7 +13,7 @@ The proposed of the system uses the Dlib's HOG facial detector using CNN and Lin
 
 #### Outcomes of the system
 4 main steps will be applied in our system, which is face detection,facial landmark detection, extraction of facial embeddings and classification of unknown embedding. This system mainly works for 2 types of users which is for admin and employee. As for the admin page, it has several modules which are login module, register new employees to the system module, add employee photos to the training data set, train the model and view attendance report of all employees. The attendance can be filtered by date or employee. Next is the functionalities that can be performed by the employee. As for employee page, there is login module, marking his/her time-in and time-out by scanning their face and viewing attendance report of their own.
-<img src="assets/implementation/exampleResult.png" width="100%">
+<img src="assets/implementation/resultexample.png" width="100%">
 
 ### Tasks and Estimated Costs
 
