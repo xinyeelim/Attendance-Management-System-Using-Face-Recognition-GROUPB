@@ -38,9 +38,13 @@ Responsibility:
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
+<img src="assets/profile/Nurfatin Nabilah.jpg" width="200" height="auto" />
+
+**NURFATIN NABILAH BINTI ABD AZIZ**
+
 Responsiblity:
-1. Make decision on the car plate recognition technology needed
-2. Create the policy for the company to unsure a safe and secure development and production environment
+1. Make decision on the attendance management using face recognition technology needed
+2. Create the policy for the company to ensure a safe and secure development and production environment
 3. Communicate with all levels to make sure the ideas and project are able to be delivered
 4. Manage the technical staff available in the company and seprate the task based on their expertise
 
