@@ -21,7 +21,7 @@ The attendance management using face recognition system done by College AI Inc. 
 
 **2.0 SUMMARY OF PROJECT RESULTS**
 
-After the system has been completed, we tested the accuracy of the system. The system is 30%
+After the system has been completed, we tested the accuracy of the system and the result shows the current models is 99.38% accurate.
 
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
