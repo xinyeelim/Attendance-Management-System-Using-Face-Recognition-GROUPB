@@ -38,7 +38,7 @@ Responsibility:
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
-<img src="assets/profile/Nurfatin Nabilah.jpg" width="200" height="auto" />
+<img src="assets/profile/Nurfatin Nabilah .jpg" width="200" height="auto" />
 
 **NURFATIN NABILAH BINTI ABD AZIZ**
 
