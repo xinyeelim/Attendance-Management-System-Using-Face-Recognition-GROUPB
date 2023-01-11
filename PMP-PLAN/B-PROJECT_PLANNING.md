@@ -8,7 +8,7 @@ The project management life cycle is represented and documented in the form of G
 
 Project management WBS is shown in the Gantt Chart below from Week 1 to 14:
 
-<img src="assets/planning/WBS_GB.png" width="100%">
+<img src="assets/planning/project_ganttchart.png" width="100%">
 
 As for the Attendance Management Project, the system WBS are represented as follow. This WBS is constructured to breakdown the technical part of the project into several modules such as interface design, API management, Facial Detection and Facial Recognition: 
 
