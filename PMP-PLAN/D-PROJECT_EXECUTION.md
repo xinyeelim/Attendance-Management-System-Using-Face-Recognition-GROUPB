@@ -10,7 +10,7 @@ Flowchart:
 <img src="assets/execution/FLOWCHART_P2.png" width="60%">
 
 
-<br><br>
+<br><br><br><br><br>
 
 ### Description of the project coding and implementation
 Libraries and Packages required:
@@ -39,16 +39,18 @@ In this step, the function below takes two inputs, embedded and targets, which a
 <br><img src="assets/execution/coding 3.jpg">
 
 The function below takes an input, present, which is a dictionary that maps user names to Boolean values indicating whether the user is present or not. The function then starts by getting the current date and time using datetime.date.today() and datetime.datetime.now() respectively. Then, it iterates through the present dictionary, getting the user object corresponding to the username using User.objects.get(username=person). Then it tries to get the Present model object, which contains the attendance record of a user and by calling Present.objects.get(user=user,date=today). If the object does not exist, it creates a new Present object and sets the user and date fields to the user and today's date, respectively and set the present field according to the dictionary, then it save this object. If the object already exists, it updates the present field of that object, then it saves the updated object. Lastly, it also saves a new Time object, and set the user, date, time and out fields, if the user is present that day.
+<br>
 <br><img src="assets/execution/coding 4.jpg">
 
-This function is similar to the previous one and is used to update the attendance records of users when they are logging out. 
+This function is similar to the previous one and is used to update the attendance records of users when they are logging out. <br>
 <br><img src="assets/execution/coding 5.jpg">
 
 
 ### Project Result
 Employee and Admin Interface:
+<br>
 <img src="assets/execution/UI1.jpg" width="90%">
-
+<br>
 <img src="assets/execution/UI2.png" width="100%">
 
 <img src="assets/execution/UI3.png" width="100%">
