@@ -33,8 +33,7 @@ Following functionalities can be performed by the employee:
 - Login
 - Mark his/her time-in and time-out by scanning their face
 - View attendance report of self
-<br><br>
-<br>
+<br><br><br><br>
 ### Risk Identification Chart (Quality, Cost, Time)
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
