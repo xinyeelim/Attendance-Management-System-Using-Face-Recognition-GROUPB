@@ -60,7 +60,7 @@ ii) Handling errors and updates of the system
 iii) Provide user guidelines for Softinn Solutions Sdn. Bhd. staff to use the system
 
 iv) Report information to senior management on monthly basis
-
+<br><br>
 #### 4. Close Contract
 
 <img src="assets/closing/close_contract.png" width="110%">
