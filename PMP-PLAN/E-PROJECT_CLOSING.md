@@ -4,15 +4,15 @@
 ### Closing Checklist
 <br>
 
-#### 1. Customer Acceptance Form
+### 1. Customer Acceptance Form
 <img src="assets/closing/acceptance_form.png" width="80%">
 <br<br><br<br>
 #### 2. Lessons Learned Document
 <img src="assets/closing/lesson_report-1.png" width="100%">
 <img src="assets/closing/lesson_report-2.png" width="100%">
 
-<br><br><br><br>
-#### 3. Final Project Report
+<br><br><br><br><br><br>
+### 3. Final Project Report
 **ATTENDANCE MANAGEMENT USING FACE RECOGNITION SYSTEM**
 <br>
 **1.0 PROJECT OBJECTIVES**
