@@ -26,7 +26,7 @@ Resposiblity:
 <br>
 
 **CHIEF OPERATING OFFICIAL (COO)**
-
+<img src="assets/profile/Azie.jpg" width="200" height="auto" />
 
 Responsibility:
 1. Report directly to CEO on any project progress and status
