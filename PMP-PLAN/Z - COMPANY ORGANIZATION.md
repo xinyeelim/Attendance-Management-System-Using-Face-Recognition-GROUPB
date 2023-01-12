@@ -23,7 +23,7 @@ Resposiblity:
 3. Manages and allocate the resources of the company
 4. Ensures project meets dateline
 
-<br>
+<br><br><br>
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
