@@ -6,23 +6,23 @@
 
 #### 1. Customer Acceptance Form
 <img src="assets/closing/acceptance_form.png" width="80%">
-<br<br>
+<br<br><br<br>
 #### 2. Lessons Learned Document
 <img src="assets/closing/lesson_report-1.png" width="100%">
 <img src="assets/closing/lesson_report-2.png" width="100%">
 
-<br><br><br>
+<br><br><br><br>
 #### 3. Final Project Report
 **ATTENDANCE MANAGEMENT USING FACE RECOGNITION SYSTEM**
-
+<br>
 **1.0 PROJECT OBJECTIVES**
 
 The attendance management using face recognition system done by College AI Inc. was intended to automate the traditional attendance system. Besides, one of the aims of College AI Inc. is to develop a system that are able to recognize a user by their facial features. Not only that, we also intend to develop an application programming interface (API) for the future ease of use as the integration module.
-
+<br>
 **2.0 SUMMARY OF PROJECT RESULTS**
 
 After the system had been completed, then we tested the system. The result of accuracy for the current model is 99.38% accurate.
-
+<br>
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
 The project member sticks to the Gantt chart scheduled so, the actual progress fits the original schedule.
