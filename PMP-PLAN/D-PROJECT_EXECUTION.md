@@ -42,14 +42,14 @@ This function is similar to the previous one and is used to update the attendanc
 
 ### Project Result
 Employee and Admin Interface:
-<img src="assets/execution/UI1.jpg" width="100%">
-<img src="assets/execution/UI2.png" width="100%">
-<img src="assets/execution/UI3.png" width="100%">
-<img src="assets/execution/ui4.png" width="100%">
+<img src="assets/execution/UI1.jpg" width="60%">
+<img src="assets/execution/UI2.png" width="60%">
+<img src="assets/execution/UI3.png" width="60%">
+<img src="assets/execution/ui4.png" width="60%">
 
 Facial Recognition Module
-<img src="assets/execution/AI1.png" width="100%">
-<img src="assets/execution/AI2.png" width="100%">
+<img src="assets/execution/AI1.png" width="60%">
+<img src="assets/execution/AI2.png" width="60%">
 
 
 <br><br><br>
