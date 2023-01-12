@@ -26,9 +26,12 @@ The proposed of the system uses the Dlib's HOG facial detector using CNN and Lin
 |   Project signs              |$400                           |  Installation of project signs     |                            |
 |   TOTAL                      |$94200                        |  Estimated     |                              |
 
+
 ### Milestone Chart
 Figures below shows the milestones for the development phase of the project, the subtasks are the modules needed to complete the development of the project.
-#### Microsoft Project:
+
+
+### Microsoft Project:
 <img src="assets/milestonechart/Project_FacialAttendance_page-0001.jpg" width="100%">
 <img src="assets/milestonechart/Project_FacialAttendance_page-0002.jpg" width="100%">
 
