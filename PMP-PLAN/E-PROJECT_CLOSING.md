@@ -31,7 +31,7 @@ The project member sticks to the Gantt chart scheduled so, the actual progress f
 
 <img src="assets/planning/WBS1.png" width="100%">
 <img src="assets/planning/WBS2.png" width="100%">
-<br><br><br><br>
+<br><br>
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
