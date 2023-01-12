@@ -11,7 +11,7 @@
 <img src="assets/closing/lesson_report-1.png" width="100%">
 <img src="assets/closing/lesson_report-2.png" width="100%">
 
-
+<br><br><br>
 #### 3. Final Project Report
 **ATTENDANCE MANAGEMENT USING FACE RECOGNITION SYSTEM**
 
