@@ -2,7 +2,7 @@
 ## D. EXECUTING THE PROJECT
 ### Project Design and Coding
 Entity Relationship Diagram:
-<br><img src="assets/execution/er_diagram.jpg" width="60%">
+<br><img src="assets/execution/er_diagram.jpg" width="100%">
 
 Flowchart:
 <br>
