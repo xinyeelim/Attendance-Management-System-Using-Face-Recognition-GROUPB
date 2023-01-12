@@ -10,7 +10,7 @@ Flowchart:
 <img src="assets/execution/FLOWCHART_P2.png" width="60%">
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### Description of the project coding and implementation
 Libraries and Packages required:
@@ -30,7 +30,7 @@ This code appears to be setting up a facial detection and alignment system using
 3. FaceAligner class is initialised with given predictor and desired face width.
 
 4. "Initializing Video stream" - The VideoStream class is imported and initialized to start capturing images from the webcam using the start() method. The src parameter is set to 0, which is the default camera index and refers to the built-in webcam.
-<br><br>
+<br><br><br><br>
 The facial detector is used to detect faces in the images captured from the webcam, and the facial landmarks predictor is used to align the faces in the images. The FaceAligner class aligns the face using facial landmarks.
 
 <br><img src="assets/execution/coding 2.jpg" width="100%">
