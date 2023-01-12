@@ -6,8 +6,8 @@ Entity Relationship Diagram:
 
 Flowchart:
 <br>
-<img src="assets/execution/FLOWCHART_P1.png" width="100%">
-<img src="assets/execution/FLOWCHART_P2.png" width="100%">
+<img src="assets/execution/FLOWCHART_P1.png" width="60%">
+<img src="assets/execution/FLOWCHART_P2.png" width="60%">
 
 ### Description of the project coding and implementation
 Libraries and Packages required:
