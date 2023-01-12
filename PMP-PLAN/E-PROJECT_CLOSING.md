@@ -5,7 +5,7 @@
 <br>
 
 #### 1. Customer Acceptance Form
-<img src="assets/closing/acceptance_form.png" width="80%">
+<img src="assets/closing/acceptance_form.png" width="90%">
 
 #### 2. Lessons Learned Document
 <img src="assets/closing/lesson_report-1.png" width="100%">
@@ -41,6 +41,8 @@ The actual budget matches the original budget, which means that the team has fol
 **5.1 SCOPE**
 
 In modern society, facial recognition is becoming more popular. In the area of security, it has achieved significant advancements. It is a very useful tool that can assist law enforcement in identifying criminals, and software providers are utilizing the technology to make it easier for people to access the technology. This technology can be improved and utilized in several contexts, such as ATMs, secure file access and other sensitive information. Future projects based on facial detection and recognition can be built on the foundation of this project. Moreover, this project combines user-friendly UI with web development and database management. By using this system, any business, institution, or organization can replace the outdated method of monitoring staff attendance and produce a monthly report on their presence.
+
+
 
 **5.2 OBJECTIVES**
 
