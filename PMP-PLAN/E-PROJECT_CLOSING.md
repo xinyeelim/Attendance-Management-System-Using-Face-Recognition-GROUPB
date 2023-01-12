@@ -18,18 +18,20 @@
 **1.0 PROJECT OBJECTIVES**
 
 The attendance management using face recognition system done by College AI Inc. was intended to automate the traditional attendance system. Besides, one of the aims of College AI Inc. is to develop a system that are able to recognize a user by their facial features. Not only that, we also intend to develop an application programming interface (API) for the future ease of use as the integration module.
-<br>
+
+<br><br>
 **2.0 SUMMARY OF PROJECT RESULTS**
 
 After the system had been completed, then we tested the system. The result of accuracy for the current model is 99.38% accurate.
-<br>
+<br><br>
+
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
 The project member sticks to the Gantt chart scheduled so, the actual progress fits the original schedule.
 
 <img src="assets/planning/WBS1.png" width="100%">
 <img src="assets/planning/WBS2.png" width="100%">
-
+<br><br>
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
