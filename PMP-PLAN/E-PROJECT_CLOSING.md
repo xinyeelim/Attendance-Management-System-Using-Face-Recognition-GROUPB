@@ -6,7 +6,7 @@
 
 #### 1. Customer Acceptance Form
 <img src="assets/closing/acceptance_form.png" width="80%">
-
+<br<br>
 #### 2. Lessons Learned Document
 <img src="assets/closing/lesson_report-1.png" width="100%">
 <img src="assets/closing/lesson_report-2.png" width="100%">
@@ -31,7 +31,6 @@ The project member sticks to the Gantt chart scheduled so, the actual progress f
 <img src="assets/planning/WBS2.png" width="100%">
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
-
 The actual budget matches the original budget, which means that the team has followed the budget planned at the beginning of the project and does not use any excessive money.
 
 **5.0 PROJECT ASSESSMENT**
